@@ -1,6 +1,6 @@
 # RPC IDE
 
-Editor de código online para la enseñanza y aprendizaje, especialmente para la programación competitiva. Como lo es la [https://redprogramacioncompetitiva.com](red de programación competitiva).
+Editor de código online para la enseñanza y aprendizaje, especialmente para la programación competitiva. Como lo es la [red de programación competitiva](https://redprogramacioncompetitiva.com).
 
 Proyecto desarrollador por:
 
