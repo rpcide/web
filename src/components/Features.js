@@ -12,8 +12,11 @@ function Features() {
           <ListItem>
             Soporte de los siguientes lenguajes: Python, Java y C++
           </ListItem>
+          <ListItem>Compartir archivos</ListItem>
           <ListItem>Modo claro y oscuro</ListItem>
-          <ListItem>Creación de tests para el uso en la programación competitiva</ListItem>
+          <ListItem>
+            Creación de tests para el uso en la programación competitiva
+          </ListItem>
           <ListItem>Subir archivos y descargarlos</ListItem>
           <ListItem>Uso del localStorage para guardar los archivos</ListItem>
         </UnorderedList>

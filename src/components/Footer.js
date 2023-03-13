@@ -1,4 +1,4 @@
-import { Box, Container, Flex, Text } from "@chakra-ui/react";
+import { Container, Flex, Text } from "@chakra-ui/react";
 import Link from "next/link";
 
 function Footer() {
@@ -13,7 +13,7 @@ function Footer() {
               target="_blank"
               style={{ textDecoration: "underline" }}
             >
-              Andres Parra
+              Andres Parra Garzon
             </Link>
           </Text>
 

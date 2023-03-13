@@ -9,10 +9,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>RPC IDE</title>
+        <title>RPC IDE | Editor de Código Online - Java, C++ y Python</title>
         <meta
           name="description"
-          content="Editor de código online para la enseñanza y aprendizaje, especialmente para la programación competitiva. Como lo es la red de programación competitiva"
+          content="Editor de código online para la enseñanza y aprendizaje, especialmente para la programación competitiva. Como lo es la red de programación competitiva en la UFPS."
         />
       </Head>
       <main>

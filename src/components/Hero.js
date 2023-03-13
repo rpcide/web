@@ -8,7 +8,6 @@ import {
   Text,
   Image,
 } from "@chakra-ui/react";
-import Link from "next/link";
 
 function Hero() {
   return (
@@ -28,10 +27,14 @@ function Hero() {
           <Spacer my={4} />
 
           <Box mb={16}>
-            <Button colorScheme="purple" shadow="md">
-              <Link href="https://rpcide.vercel.app/" target="_blank">
-                Empezar
-              </Link>
+            <Button
+              colorScheme="purple"
+              shadow="md"
+              as="a"
+              href="https://rpcide.vercel.app/"
+              target="_blank"
+            >
+              Empezar
             </Button>
           </Box>
 
