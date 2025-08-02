@@ -9,7 +9,7 @@ function Footer() {
           <Text>
             Desarrollado con ❤️ por{" "}
             <Link
-              href="https://byandrev-blog.vercel.app"
+              href="https://byandrev.dev"
               target="_blank"
               style={{ textDecoration: "underline" }}
             >
